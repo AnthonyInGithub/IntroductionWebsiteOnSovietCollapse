@@ -1,0 +1,11 @@
+English: 
+Unzip the rar file first, then open the main.html file in the folder, choose a web browser(chrome or edge best) to open it. 
+If it doesn't work, try to drag main.html file into your web broswer. 
+If it still doesn't work, contact me through 1926375810@qq.com please.(or any other ways) 
+----Anthony.Z
+
+Chinese: 
+先解压文件, 然后双击用浏览器打开文件夹里的main.html. (最好是chrome或者edge浏览器)
+如果打不开的话, 试着把main.html拖进浏览器里打开.
+如果还是不行的话, 可以通过1926375810@qq.com这个邮箱地址来联系我. 
+---安东尼

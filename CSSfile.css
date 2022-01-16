@@ -1,0 +1,112 @@
+body{
+	font-family: "Merriweather","Georgia","Times New Roman",serif;
+	font-size: 18px;
+}
+h1{
+	border-bottom: 1px solid;
+	padding-bottom: 25px;
+}
+#topic{
+	font-size: 50px;
+	margin-left: 40px;
+}
+.main{
+	line-height: 150%;
+	text-underline-position: none;
+}
+.main a:link{
+	text-decoration: none;
+	color: #0645ad;
+}
+.main a:hover{
+	text-decoration: underline;
+}
+.main a:visited{
+	color: #0645ad;
+}
+.navigation{
+	background-color: #205493;
+	width: 101.85%;
+	height: 50px;
+	margin:0;
+	position: sticky;
+	top:-1px;
+	display: flex;
+	margin-left: -20px;
+}
+.navigation a{
+	text-decoration: none;
+	color:white;
+	margin: 0;
+	overflow: hidden;
+	padding: 12px 120px 20px 120px;
+	font-size:20px;
+	position: relative;
+	top:22%;
+}
+
+.navigation div{
+	display: inline;
+}
+.navigation div:hover{
+	background-color: #104483;
+}
+.translate button{
+	padding: 3px 10px 8px 10px;
+	border: none;
+	margin:0;
+	text-decoration: none;
+	display: inline;
+	background-color: #ffffff;
+}
+.translate button:hover{
+	background-color: #eeeeee;
+	cursor: pointer; 
+}
+.translate img{
+	margin-top: 10px;
+	height: 30px;
+}
+#translate_button{
+	width: 60px;
+	height: 50px;
+}
+.uppermain{
+	margin-left: 50px;
+	margin-right: 100px;
+}
+
+.flex{
+	display: flex;
+}
+.center{
+	margin: auto;
+}
+.footer{
+	background-color: #205493;
+	height: 200px;
+	margin-left: -20px;
+	width: 101.85%;
+}
+.none_display{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-decoration: none;
+}
+.bottom_index a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 20px;
+}
+.bottom_index a:hover{
+	text-decoration: underline;
+}
+.footer img{
+	width: 50px;
+	height: 50px;
+	margin-left: 10px;
+}
+.white_font{
+	color: #FFFFFF;
+}
